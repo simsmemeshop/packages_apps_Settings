@@ -122,6 +122,13 @@
         android:summary="@string/summary_placeholder" />
 
     <ListPreference
+        android:key="system_theme_style"
+        android:title="@string/device_theme"
+        android:persistent="false"
+        android:entries="@array/system_theme_style_entries"
+        android:entryValues="@array/system_theme_style_values" />
+
+    <ListPreference
         android:key="systemui_theme"
         android:title="@string/device_theme"
         android:entries="@array/systemui_theme_entries"
