@@ -87,6 +87,7 @@
 
     <!-- Themes -->
     <string name="system_theme_style_auto">Wallpaper based</string>
+    <string name="applying_theme_toast">Applying theme, please wait...</string>
     <string name="system_theme_style_light">Light UI</string>
     <string name="system_theme_style_dark">Dark UI</string>
     <string name="system_theme_style_black">Black UI</string>
