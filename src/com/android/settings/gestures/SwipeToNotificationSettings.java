@@ -75,6 +75,9 @@ public class SwipeToNotificationSettings extends DashboardFragment {
                 protected boolean isPageSearchEnabled(Context context) {
                     return SwipeToNotificationPreferenceController.isAvailable(context);
                 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> a2a0099d11... Settings: Cherry-pick a bunch fixes to AOSP
             };
 }
