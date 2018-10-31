@@ -92,4 +92,6 @@
     <string name="system_theme_style_dark">Dark UI</string>
     <string name="system_theme_style_black">Black UI</string>
 
+    <string name="full_gesture_mode_title">Enable full gesture mode</string>
+    <string name="full_gesture_mode_summary">This mode will disable also the back button and you will be able to trigger a back button action by a left swipe on navbar. Right swipe will still trigger the last-app action.</string>
 </resources>
